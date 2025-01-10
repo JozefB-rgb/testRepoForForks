@@ -1,7 +1,10 @@
 #include <iostream>
 
 
-//something
+void print()
+{
+	std::cout << "Yes";
+}
 
 int main()
 {
