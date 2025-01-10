@@ -1,0 +1,9 @@
+#include <iostream>
+
+
+//something
+
+int main()
+{
+	std::cout << Hello World" << std::endl;
+}
